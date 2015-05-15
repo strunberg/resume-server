@@ -138,10 +138,8 @@ function resumeSection(section) {
 			output += "------------------------------------------------------------------------------\n";
 			output += "Info\n";
 			output += "------------------------------------------------------------------------------\n";
-			output += "Name: Zachary M. Flower\n";
-			output += "Email: zach@zacharyflower.com\n";
-			output += "Website: http://zacharyflower.com\n";
-			output += "Twitter: @zachflower";
+			output += "Name: John M. Double\n";
+			output += "Email: johndouble2@gmail.com\n";
 
 			break;
 		case 'achievements':
