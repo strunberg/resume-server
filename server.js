@@ -162,37 +162,26 @@ function resumeSection(section) {
 			output += "------------------------------------------------------------------------------\n";
 			output += "Martin High School Graduation                        : Martin 2010  Martin, MI\n";
 			output += "CompTIA     A+     certification                     : March  2013            \N";
-			output += "
 			break;
 		case 'employment':
 			output += "------------------------------------------------------------------------------\n";
 			output += "Employment\n";
 			output += "------------------------------------------------------------------------------\n";
-			output += "Double Construction                                  : San Francisco, CA      \n";
-			output += "Manual Labourer                                      : XX/XX- XX/XX           \n";
+			output += "Double Construction                                  : Martin, MI             \n";
+			output += "Manual Labourer                                      : XX/XX - XX/XX          \n";
 			output += "    I helped out with manual labor on varius construction sites.              \n";
 			output += "    For a few years I did landscaping work during summer, and various snow    \n";
 			output += "    removeal work for walmart and a stripmall with my family's company until  \n";
 			output += "    Walmart stopped hiring local companies and gave a contract to a large     \n";
 			output += "    nation wide company. 							 \n";
+			break;
 			
-			
-			output += "Mocavo, Inc.                                         : Boulder, CO            \n";
-			output += "Senior Backend Software Developer                    : Aug. 2011 - Aug. 2013  \n";
-			output += "    Developed in PHP; Developed on top of a highly modified CodeIgniter       \n";
-			output += "    framework; Wrote various crawlers for gathering data from Google,         \n";
-			output += "    Ancestry.com, and Archives.com, among others; Designed and implemented a  \n";
-			output += "    natural language processing system to bring structure to unstructured     \n";
-			output += "    search results, allowing users to run sophisticated queries based on      \n";
-			output += "    location, date ranges, first name alternates, similar last names, and     \n";
-			output += "    events; Implemented order system using BrainTree Gateway; Developed       \n";
-			output += "    RESTful API for Mocavo mobile apps; Implemented standalone OCR system;    \n";
-			output += "    Developed automatic search service, allowing users to upload family trees \n";
-			output += "    and have search results based on multiple algorithms mailed to them       \n";
-			output += "    weekly; Integrated several third party APIs (Dropbox, Geni, BrainTree);   \n";
-			output += "    Built and maintained extensive administrative tools for support staff;    \n";
-			output += "    Developed backend for custom family tree builder; Created word-           \n";
-			output += "    highlighting thumbnail generator using OCR word coordinates.\n\n";
+			output += "AMC Construction		                        : Plainwell, MI          \n";
+			output += "Manual Labourer		                        : XX/XX - XX/XX          \n";
+			output += "    I helped refinish some basements.I fixed the company's computers	         \n";
+			output += "    a few times in the past,and whenever Paul Wharton needs me again. 	 \n";
+			break;	
+
 
 			output += "Name.com                                             : Denver, CO             \n";
 			output += "Software Developer                                   : Oct. 2010 - Aug. 2011  \n";
