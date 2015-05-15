@@ -160,9 +160,9 @@ function resumeSection(section) {
 			output += "------------------------------------------------------------------------------\n";
 			output += "Education\n";
 			output += "------------------------------------------------------------------------------\n";
-			output += "University of Colorado at Boulder                    : Boulder, CO\n";
-			output += "B.S. in Computer Science                             : Fall 2005 - Spring 2010";
-
+			output += "Martin High School Graduation                        : Martin 2010  Martin, MI\n";
+			output += "CompTIA     A+     certification                     : March  2013            \N";
+			output += "
 			break;
 		case 'employment':
 			output += "------------------------------------------------------------------------------\n";
