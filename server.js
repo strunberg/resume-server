@@ -183,17 +183,14 @@ function resumeSection(section) {
 			break;	
 
 
-			output += "Name.com                                             : Denver, CO             \n";
-			output += "Software Developer                                   : Oct. 2010 - Aug. 2011  \n";
-			output += "    Developed in PHP; Developed on top of a highly modified CodeIgniter       \n";
-			output += "    framework; Designed and developed the first version of Name.com’s mobile  \n";
-			output += "    website; Implemented various ccTLDs (.BE, .LI, .CH); Responsible for all  \n";
-			output += "    domain name transfer functionality; Developed RESTful API for Name.com    \n";
-			output += "    sister site, Who.is; Integrated numerous third party APIs for use through \n";
-			output += "    the Name.com website (Tropo, DevHub, MobileView, DIYSEO); Implemented     \n";
-			output += "    Unofficial API for integration with About.me; Lead developer on various   \n";
-			output += "    product implementations (PageZen and SEOTutor).\n\n";
-
+			output += "The Bib                                              : Gun Lake, MI           \n";
+			output += "Bus Boy                                              : 07/X/13 01/20/15       \n";
+			output +=	I was employed part time as a bus boy.
+					Depending on the needs of the time I prepped food,ran errands w/ truck,
+					Cleaned the facility.
+			break;		
+					
+					
 			output += "Omnibus Systems                                      : Golden, CO             \n";
 			output += "Project Engineer                                     : Jan. 2010 - Oct. 2010  \n";
 			output += "    Helped commission over 50 primary/backup television channel pairs at      \n";
