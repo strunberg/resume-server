@@ -186,8 +186,8 @@ function resumeSection(section) {
 			output += "The Bib                                              : Gun Lake, MI           \n";
 			output += "Bus Boy                                              : 07/X/13 01/20/15       \n";
 			output +=	I was employed part time as a bus boy.
-					Depending on the needs of the time I prepped food,ran errands w/ truck,
-					Cleaned the facility.
+			output +=	Depending on the needs of the time I prepped food,ran errands w/ truck,  \n";
+			output +=	Cleaned the facility.							 \n";
 			break;		
 					
 					
