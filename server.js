@@ -168,20 +168,15 @@ function resumeSection(section) {
 			output += "------------------------------------------------------------------------------\n";
 			output += "Employment\n";
 			output += "------------------------------------------------------------------------------\n";
-			output += "Buffer                                               : San Francisco, CA      \n";
-			output += "Backend Hacker                                       : Jan. 2014 - May 2014   \n";
-			output += "    Full-time work-from-home position; Developed in PHP; Developed on top of a\n";
-			output += "    highly modified CodeIgniter framework; Developed RSS feed importing       \n";
-			output += "    feature; Made various updates and bug fixes to the Buffer API and web app;\n";
-			output += "    Implemented multiple security features, including user session management,\n";
-			output += "    multiple failed login lockouts, and API token management; Implemented     \n";
-			output += "    real-time Twitter analytics tracking and semi-real-time Facebook,         \n";
-			output += "    Linkedin, and Google+ analytics tracking; Made numerous improvements to   \n";
-			output += "    analytics tracking and reporting functionality; Introduced New Relic      \n";
-			output += "    monitoring; Worked on top of Amazon AWS stack utilizing SQS, EC2, S3, and \n";
-			output += "    Elastic Beanstalk; Worked directly with customers to solve more technical \n";
-			output += "    issues.\n\n";
-
+			output += "Double Construction                                  : San Francisco, CA      \n";
+			output += "Manual Labourer                                      : XX/XX- XX/XX           \n";
+			output += "    I helped out with manual labor on varius construction sites.              \n";
+			output += "    For a few years I did landscaping work during summer, and various snow    \n";
+			output += "    removeal work for walmart and a stripmall with my family's company until  \n";
+			output += "    Walmart stopped hiring local companies and gave a contract to a large     \n";
+			output += "    nation wide company. 							 \n";
+			
+			
 			output += "Mocavo, Inc.                                         : Boulder, CO            \n";
 			output += "Senior Backend Software Developer                    : Aug. 2011 - Aug. 2013  \n";
 			output += "    Developed in PHP; Developed on top of a highly modified CodeIgniter       \n";
