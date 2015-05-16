@@ -189,32 +189,22 @@ function resumeSection(section) {
 			output +=	Depending on the needs of the time I prepped food,ran errands w/ truck,  \n";
 			output +=	Cleaned the facility.							 \n";
 			break;		
-					
-					
-			output += "Omnibus Systems                                      : Golden, CO             \n";
-			output += "Project Engineer                                     : Jan. 2010 - Oct. 2010  \n";
-			output += "    Helped commission over 50 primary/backup television channel pairs at      \n";
-			output += "    DirecTV in Los Angeles and 48 primary/backup television channel pairs at  \n";
-			output += "    Starz Entertainment in Denver; Responsible for iTX software upgrades,     \n";
-			output += "    installation, and beta testing; Debugged software issues at multiple      \n";
-			output += "    sites, including Encompass Media Group, DirecTV, Starz Entertainment, E!  \n";
-			output += "    Entertainment, and Turner Broadcasting; Ran database audits in Microsoft  \n";
-			output += "    SQL Server 2008; Wrote custom batch scripts for log analysis, remote file \n";
-			output += "    updates, and file system audits; Worked primarily in Windows 2008 Servers.";
 
-			break;
 		case 'projects':
 			output += "------------------------------------------------------------------------------\n";
 			output += "Projects\n";
 			output += "------------------------------------------------------------------------------\n";
-			output += "Bistro                                               : Mar. 2013 - Present    \n";
-			output += "    Bistro is a restaurant ratings and comment aggregator built on top of the \n";
-			output += "    CodeIgniter framework and MongoDB; Bistro currently pulls data from Yelp, \n";
-			output += "    TripAdvisor, OpenTable, CityGrid, Facebook, Instagram, Foursquare,        \n";
-			output += "    Twitter, and Google using both API implementations, as well as stealth    \n";
-			output += "    crawlers utilizing the Tor network; Currently in development.\n\n";
-
-			output += "Towntrack                                            : Oct. 2011 - Oct. 2012  \n";
+			output += "NRA anti-gun google map		                : Dec. 2013 - Jan. 2014  \n";
+			output += "    During the month of december of the year 2013 a NY newspaper released a   \n";
+			output += "    Google map  of all pistol permit holders who live in the New York state   \n";
+			output += "    counties of  Westchester and Rockland.                                    \n";
+			output += "    In reaction I made a google map which listed the homes  celeberties.      \n";
+			output += "    The celebrities were listed on a anti-gun list which was created by the NRA. \n\n";
+			output += "    Many of the celberties made money off action films such as Sylvester Stallone.\n";
+			output += "    While other celeberties have bodyguards.                                 \n";
+			break;
+			
+			output += "Telnet Resume.                                       : Oct. 2011 - Oct. 2012  \n";
 			output += "    Towntrack was originally developed as a way to give unsigned and indie    \n";
 			output += "    artists an unbiased and uncompetitive way to receive more exposure;       \n";
 			output += "    Towntrack pulled artist data and music from Facebook and SoundCloud,      \n";
